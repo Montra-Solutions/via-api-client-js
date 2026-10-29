@@ -1,6 +1,6 @@
 {
   "name": "@trash-bandits/via-api-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API Wrapper for Montra Via SaaS Application",
   "main": "index.js",
   "files": [
