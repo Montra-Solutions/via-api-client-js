@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "API Wrapper for Montra Via SaaS Application",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "type": "module",
   "scripts": {
     "test": "node --test"
